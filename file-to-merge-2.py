@@ -1,2 +1,2 @@
 print('file-to-merge-2')
-print('TODO')
+print('update 0')
