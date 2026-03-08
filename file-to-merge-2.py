@@ -1,2 +1,2 @@
 print('file-to-merge-2')
-print('update 1')
+print('update 0')
