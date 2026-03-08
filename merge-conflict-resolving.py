@@ -1,2 +1,2 @@
 print('merge-conflict-resolving.py')
-print('TODO')
+print('update 1')
